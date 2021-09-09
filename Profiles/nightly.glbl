@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GlobalVariableEntities>
+   <description/>
+   <name>nightly</name>
+   <tag/>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'https://next.genetica.asia'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'2109095e8081a79d'</initValue>
+      <name>OrderID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'10/09/21 00:18'</initValue>
+      <name>CurrentTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'0928223470 QGH'</initValue>
+      <name>MessageCK</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
