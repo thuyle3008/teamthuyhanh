@@ -21,7 +21,7 @@
       <guid>210e6c6c-dd36-497c-b6f8-c333224fcefd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/hanh_confirmPaymentRequest</testCaseId>
+      <testCaseId>Test Cases/hanh_confirmPaymentRequestRealtime</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>c612aa73-dd07-40df-8d90-e947a0bd0b0b</guid>
