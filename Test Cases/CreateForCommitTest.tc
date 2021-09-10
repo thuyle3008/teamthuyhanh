@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateForCommitTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8efad622-95bd-442f-9b42-6eb2f799da48</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd04770d-0907-43af-8b4b-f915064cd88f</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
