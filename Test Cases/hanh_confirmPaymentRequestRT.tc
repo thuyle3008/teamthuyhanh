@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>hanh_confirmPaymentRequestRealtime</name>
+   <name>hanh_confirmPaymentRequestRT</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ef6c0333-680c-4b51-ab33-ea95a8288ac2</testCaseGuid>
